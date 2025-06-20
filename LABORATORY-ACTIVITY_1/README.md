@@ -1,4 +1,4 @@
-# Titanic Survival Prediction – Lab 1
+# Computational Thinking with the Titanic Dataset using Python – Lab 1
 
 This project explores machine learning techniques to predict passenger survival on the Titanic using the classic Titanic dataset. The code is organized in a single Jupyter Notebook: `lab1_titanic_Lusterio.ipynb`.
 
@@ -15,4 +15,5 @@ This project explores machine learning techniques to predict passenger survival 
   - Drops unnecessary columns like `Cabin` and `Name`
 
 ## 📌 Goal
-Understand how data preprocessing and model selection impact the performance of machine learning algorithms on a real-world classification problem.
+- Apply the four pillars of computational thinking: Decomposition, Pattern Recognition, Abstraction, and Algorithm Design
+- Analyze the Titanic dataset to identify key insights and stories of the data.
